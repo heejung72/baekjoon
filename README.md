@@ -9,6 +9,6 @@
 ## 문제 풀이 기록 (날짜별)
 
 ### 2025-09-18
-- [8393 합](https://www.acmicpc.net/problem/8393) ✅
-- [1929 소수 구하기](https://www.acmicpc.net/problem/1929) ✅
-- [1978 소수 찾기](https://www.acmicpc.net/problem/1978) ✅
+- 8393 ☑️
+- 1929 ☑️
+- 1978 ☑️
